@@ -1,2 +1,3 @@
-model_checkpoint_path: "MNSIT_DNN.ckpt"
-all_model_checkpoint_paths: "MNSIT_DNN.ckpt"
+model_checkpoint_path: "mnist_dnn.ckpt"
+all_model_checkpoint_paths: "/tmp/mnist_dnn.ckpt"
+all_model_checkpoint_paths: "mnist_dnn.ckpt"
