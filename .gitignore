@@ -1,0 +1,5 @@
+.tmp.drivedownload/*
+.tmp.driveupload/*
+__pycache__
+.ipynb_checkpoints/*
+.vscode
